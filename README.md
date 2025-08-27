@@ -31,17 +31,6 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhosh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 🛠️ Tech Arsenal
 
 ### Languages
@@ -83,22 +72,8 @@
 
 <div align="center">
 
-## 🚀 What I'm Building
+## 📬 Contact Me  
 
-```javascript
-const currentFocus = {
-    projects: ["Full-stack web applications", "ML models", "Algorithm solutions"],
-    learning: ["System Design", "Advanced Algorithms", "Cloud Architecture"],
-    goals: ["Open Source Contributions", "Technical Writing", "Mentoring"]
-};
-```
+📧 <a href="mailto:s.santhosh@iiitb.ac.in">s.santhosh@iiitb.ac.in</a>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.santh
