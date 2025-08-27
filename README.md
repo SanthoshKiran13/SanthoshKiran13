@@ -51,10 +51,6 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santhosh&theme=tokyo-night&hide_border=true&area=true)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -119,28 +115,14 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### 🌟 Coming Soon - Building Amazing Projects!
+*Stay tuned for some exciting developments...*
 
-### 🌟 [Project Alpha](https://github.com/santhosh/project-alpha)
-**Full-Stack Web Application**
-- 🛠️ **Stack**: React, Node.js, MongoDB
-- 🎯 **Features**: Real-time chat, User auth
-- ⚡ **Performance**: Optimized for scale
-
-</td>
-<td width="50%">
-
-### 🤖 [AI Assistant](https://github.com/santhosh/ai-assistant)
-**Machine Learning Project**
-- 🛠️ **Stack**: Python, TensorFlow, FastAPI
-- 🎯 **Features**: NLP, Smart responses
-- 📊 **Accuracy**: 92% model performance
-
-</td>
-</tr>
-</table>
+📌 **Currently Working On:**
+- 💻 Full-Stack Web Applications
+- 🤖 Machine Learning Projects  
+- 🎯 Competitive Programming Solutions
+- 🚀 Open Source Contributions
 
 </div>
 
